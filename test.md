@@ -1,6 +1,6 @@
 This is a test repo
 
-this is is a typo
+this is a typo
 
 Their is a typo here  typoe
-this is is an issue
+this is an issue
