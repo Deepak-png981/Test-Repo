@@ -1,4 +1,4 @@
-Determi nistic  result is important!
+Deterministic result is important!
 
 And it is an example.
 
